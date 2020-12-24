@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\BookListRazor\\BookListRazor\\BookListRazor.csproj": {}
+    "E:\\BookListRazor\\RazorBookList\\BookListRazor\\BookListRazor.csproj": {}
   },
   "projects": {
-    "E:\\BookListRazor\\BookListRazor\\BookListRazor.csproj": {
+    "E:\\BookListRazor\\RazorBookList\\BookListRazor\\BookListRazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
+        "projectUniqueName": "E:\\BookListRazor\\RazorBookList\\BookListRazor\\BookListRazor.csproj",
         "projectName": "BookListRazor",
-        "projectPath": "E:\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
+        "projectPath": "E:\\BookListRazor\\RazorBookList\\BookListRazor\\BookListRazor.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "E:\\BookListRazor\\BookListRazor\\obj\\",
+        "outputPath": "E:\\BookListRazor\\RazorBookList\\BookListRazor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
